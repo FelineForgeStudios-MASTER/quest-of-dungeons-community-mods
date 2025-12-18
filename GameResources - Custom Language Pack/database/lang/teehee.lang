@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<lines>
+<!-- Classes -->
+<line original="Warrior">Also a Biggie</line>
+<line original="Assassin">Assassin</line>
+<line original="Wizard">Biggie</line>
+<line original="Shaman">Sha doo sha dah</line>
+<line original="Necrodancer">Cadence</line>
+
+<!-- PressStartButtonScreen -->
+<line original="Press the %s button">Press a button NOW</line>
+<line original="Start">Start</line>
+<line original="Please Connect a controller">Please Connect a controller</line>
+<line original="Switch Profile">Switch Profile</line>
+<line original="CONNECT_CONTROLLER_SWITCH_PROFILE_MSG">Connection with controller used by player "%s" lost. Reconnect controller with same player to continue or switch to a different profile to play.</line>
+<line original="CONNECT_CONTROLLER_NO_SWITCH_PROFILE_MSG">Connection with controller used by player "%s" lost. Reconnect controller with same player to continue.</line>
+<line original="Using Profile">Using Profile</line>
+<line original="Accessing Save Data...">Accessing Save Data...</line>
+<line original="Saving...">Saving...</line>
+<line original="Change Controller">Change Controller</line>
+
+<line original="Ghosts Exchange">Ghosts Exchange</line>
+<line original="Ghost activate msg">It's possible to exchange ghosts with other players. Do you want to activate StreetPass?</line>
+<line original="Ghost deactivate msg">Deactivate StreetPass?</line>
+<line original="Ghost activation failed">Cannot activate StreetPass for any more software. To deactivate StreetPass for other software go to StreetPass Management in System Settings.</line>
+
+<!--generic-->
+<line original="Yes">yasS</line>
+<line original="No">Nawr</line>
+<line original="Ok">Fine</line>
+<line original="RELOAD_UI_INGAME_WARNING">The game will need back to main menu to apply this setting. (Game progress will be saved).</line>
+<line original="RELOAD_UI_WARNING">The screen will need to reload to apply this setting.</line>
+<line original="SAVE_FAILED_EXIT_ANYWAY">Leave without being Sigma??</line>
+
+
+<!--MAIN MENU-->
+<line original="Exit">Dwon't Leave Pwease</line>
+<line original="Credits">Street Cred</line>
+<line original="Options">Gear Icon</line>
+<line original="STATS">STATS</line>
+<line original="New Game">Unalive ur savefile?</line>
+<line original="Continue">Continue forward...</line>
+<line original="Help">Help</line>
+<line original="Arena Mode">Arena Mode</line>
+
+<line original="Welcome">Welcome</line>
+<line original="Already leaving? Are you sure??">Already leaving?&#xA;Are you sure??</line>
+<line original="Please insert floppy disk">Please insert floppy disk</line>
+<line original="Starting a new game will overwrite your current progress.">Dude are you seriously going to Unalive your Current Save file?? How unslay of you, smh.</line>
+<line original="Key Binding">Curse of Binding</line>
+<line original="Game">'Gay'me</line>
+<line original="Graphics">Pictures</line>
+<line original="Language">Language</line>
+<line original="Sound">Sound</line>
+<line original="Back">Back</line>
+<line original="Controller">Controller</line>
+<line original="Press Button">Press Button</line>
+<line original="USE_DIFFERENT_BUTTON">USE A DIFFERENT BUTTON</line>
+<line original="Are you sure?">(JOHN CENA): Are you sure?</line>
+
+<line original="LOAD">Load</line>
+<line original="CANCEL">CANCEL</line>
+<line original="Level">Level</line>
+<line original="Floor">Floor</line>
+<line original="Time Played">Time Played</line>
+
+<line original="Studio">Studio</line>
+<line original="Programming">Programming</line>
+<line original="Art">Art</line>
+<line original="Additional Art">Additional Art</line>
+<line original="Music">Music</line>
+<line original="Website">Website</line>
+<line original="Thanks">Thanks</line>
+<line original="Trivia">Trivia</line>
+<line original="Translation">Translation</line>
+
+<line original="Around User">Around User</line>
+<line original="Global">Global</line>
+<line original="Friends">Connections</line>
+<line original="Stats">Stats</line>
+<line original="Leaderboards">Leaderboards</line>
+<line original="Feats">Feets</line>
+<line original="Loading">Loading</line>
+<line original="No results">No results</line>
+<line original="Connecting">Connecting</line>
+<line original="No Connection">No Connection</line>
+<line original="Reset Statistics">Reset Stats</line>
+<line original="Generating Dungeon">Generating Dungeon</line>
+<line original="Error occurred! Please check connection and try again later.">Error occurred!&#xA;Please check connection and try again later.</line>
+<line original="Age-restricted content">Age-restricted content</line>
+<line original="Update available, please update and try again.">Update available, please update and try again.</line>
+
+<!--DungeonSelectScreen-->
+<line original="Custom Game">Be a loser??</line>
+<line original="Dungeon Size:">Dungeon Size (AYOO??):</line>
+<line original="Difficulty:">Diffi'cult'y:</line>
+<line original="Floors:">Floors:</line>
+<line original="Start">Go fast?</line>
+<line original="Apply">Apply</line>
+<line original="Reset">Reset</line>
+<line original="Press Key">Press Key</line>
+
+<!--graphics options-->
+<line original="Fullscreen">Fullscreen</line>
+<line original="Idle on BKGND">Idle on BKGND</line>
+<line original="Brightness">Brightness</line>
+<line original="Screen Area">Screen Area</line>
+<line original="Screen Area (TV)">Screen Area (TV)</line>
+
+<!--sound options-->
+<line original="High Performance">High Performance</line>
+<line original="Sound">Sound</line>
+<line original="Ambient Only">Ambient Only</line>
+<line original="Music">Music</line>
+<line original="Effects">Effects</line>
+
+<!--key options-->
+<line original="UP">UP</line>
+<line original="DOWN">DOWN</line>
+<line original="LEFT">LEFT</line>
+<line original="RIGHT">RIGHT</line>
+<line original="PICK ITEM">PICK ITEM</line>
+<line original="WAIT TURN">WAIT TURN</line>
+<line original="INVENTORY">INVENTORY</line>
+<line original="EQUIPMENT">EQUIPMENT</line>
+<line original="MAP">MAP</line>
+<line original="QUESTS">QUESTS</line>
+<line original="Toggle atk/Skill">Toggle atk/Skill</line>
+<line original="Select Enemy">Select Enemy</line>
+<line original="Ranged Attack">Ranged Attack</line>
+
+<!--gamepad options-->
+<line original="Vibration">Vibration</line>
+<line original="Vibration Strength">Vibration Strength</line>
+
+<!-- NINTENDO specific -->
+<line original="Rumble">Rumble</line>
+<line original="Rumble Strength">Rumble Strength</line>
+
+<line original="3DS_OPTION_DPAD_1">Movement Option: C</line>
+<line original="3DS_OPTION_DPAD_2">Movement Option: B</line>
+<line original="3DS_OPTION_DPAD_3">Movement Option: A</line>
+
+<!--Game Pause Menu-->
+<line original="Continue">Continue</line>
+<line original="Save &amp; Exit">Save &amp; Exit</line>
+<line original="Options">Options</line>
+
+<line original="Controls">Controls</line>
+
+<line original="Spikes">Spikes</line>
+
+<line original="Omphar Mansion">Omphar Mansion</line>
+<line original="Rackan Mansion">Rackan Mansion</line>
+<line original="Rothar Mansion">Rothar Mansion</line>
+
+<!--STORY-->
+<!--OMPHAR STORY-->
+<line original="OMPHAR_PLOT">In the land of Virul, a powerful and evil Lord stole all the light, trapping it inside a magical Lantern. Darkness spread quickly and ruthlessly.</line>
+<line original="OMPHAR_INTRO">FOUR HOMIES JOINED FORCES</line>
+<line original="OMPHAR_DLG_1">YOU SHOULDN'T GO ALONE</line>
+<line original="OMPHAR_DLG_1_F">YOU SHOULDN'T GO ALONE</line>
+<line original="OMPHAR_DLG_2">NAH I'M GOOD</line>
+<line original="OMPHAR_DLG_3">BAD IDEA</line>
+<line original="OMPHAR_DLG_4">HOW IS THAT A BAD IDEA?</line>
+<line original="OMPHAR_DLG_5">DUDE WTH DO MEAN ITS A GOOD IDEA?</line>
+<line original="OMPHAR_DLG_6">YOU ONLY HAVE A %s</line>
+<line original="OMPHAR_DLG_7">YOU ONLY HAVE A %s</line>
+<line original="OMPHAR_DLG_8">DW I'M SURE ABOUT THIS</line>
+<line original="OMPHAR_DLG_9">I GUESS WE'LL STAY HERE THEN</line>
+<line original="OMPHAR_DLG_10">ALRIGHT</line>
+<line original="OMPHAR_DLG_11">OK...</line>
+<line original="OMPHAR_DLG_12">HE IS SO DEAD</line>
+<line original="OMPHAR_DLG_12_F">SHE IS SO DEAD</line>
+<line original="OMPHAR_DLG_13">TOTALLY</line>
+
+<line original="A BOW">A BOW</line>
+<line original="A SWORD">A SWORD</line>
+<line original="A STAFF">A STAFF</line>
+<line original="MAGIC">MAGIC</line>
+
+<!--RACKAN STORY-->
+<line original="RACKAN_PLOT">After the events on Omphar, King Jelly decided to conquer Virul. Once again all light was trapped inside the magical Lantern.</line>
+<line original="RACKAN_INTRO">FOUR HEROES JOINED FORCES</line>
+<line original="RACKAN_DLG_1">WHO IS THIS KING JELLY?</line>
+<line original="RACKAN_DLG_2">I DON'T KNOW</line>
+<line original="RACKAN_DLG_3">NEVER HEARD OF HIM</line>
+<line original="RACKAN_DLG_4">HE WASN'T EVEN ORIGINAL</line>
+<line original="RACKAN_DLG_5">JUST STOLE THE LIGHT AGAIN</line>
+<line original="RACKAN_DLG_6">SHOULD I GO ALONE?</line>
+<line original="RACKAN_DLG_7">YES WE'LL STAY HERE</line>
+<line original="RACKAN_DLG_8">OK</line>
+<line original="RACKAN_DLG_9">I hope the bounty is bigger</line>
+<line original="RACKAN_DLG_10">You got payed last time?</line>
+
+<!--this line is missing the location at the end, translate assuming something like "reache the ruins of the old Location name"-->
+<line original="STORY_PAGE_3_1">Dude that was such a bad choice, you're going to die bruv.</line>
+<line original="STORY_PAGE_3_2">But maybe it'll end up good for you? Probably not, lmbo.</line>
+
+<!--Story END-->
+<line original="WE DID IT AGAIN">WE DID IT AGAIN</line>
+<line original="NO, I DID IT">NO, I DID IT</line>
+<line original="SURE TAKE ALL THE CREDIT">SURE TAKE ALL THE CREDIT</line>
+<line original="ON TO THE NEXT MISSION">ON TO THE NEXT MISSION</line>
+<line original="I'm starving">I'm starving</line>
+<line original="WHERE TO?">WHERE TO?</line>
+<line original="Let's search another mansion">Let's search another mansion</line>
+<line original="Shall we begin?">Shall we begin?</line>
+
+<line original="That's it?">That's it?</line>
+<line original="Yes, I won">Yes, I won</line>
+<line original="Let's go home">Let's go home</line>
+<line original="I guess">I guess</line>
+<line original="I'm starving">I'm starving</line>
+<line original="So, are we going?">So, are we going?</line>
+<line original="How much wood does a woodch..">How much wood does a woodch..</line>
+<line original="Enough with that">Enough with that</line>
+
+<!--CREATE NEW GAME-->
+
+<line original="WARRIOR_DESCRIPTION">This biggie is a slightly less of a biggie than the other one and can do a tiny bit.</line>
+<line original="ASSASSIN_DESCRIPTION">Lurking in the shadows, the Assassin is the most OP class, like they NEED to nerf him fr.</line>
+<line original="WIZARD_DESCRIPTION">The biggie is a *bleep*-ing biggie, hes not good for anything and can't do jack.</line>
+<line original="SHAMAN_DESCRIPTION">Hehe Ben Kweller reference.</line>
+<line original="NECRODANCER_DESCRIPTION">Only real ones know who she is...</line>
+
+<line original="SELECT">SELECT</line>
+<line original="CANCEL">CANCEL</line>
+<line original="EASY">EASY</line>
+<line original="NORMAL">NORMAL</line>
+<line original="HARD">HARD</line>
+<line original="HELL">HELL</line>
+
+
+
+<!--GAME-->
+
+<line original="GAME_FINISHED_CONGRATS_TXT">Congratulations! You found the Lantern of all Light. You can now restore the land to its natural balance. Your quest is over.</line>
+
+<!--PROPS_LABEL-->
+<line original="Turns left">Turns Left: %i</line>
+<line original="each turn"> each turn</line>
+<line original="Max">Max</line>
+<line original="Cooldown">cooldown</line>
+<line original="Mana cost">Mana cost</line>
+<line original="Passive">Passive</line>
+<line original="Defense">Defense</line>
+<line original="Power">Power</line>
+<line original="Buy Value">Buy Value</line>
+<line original="Sell Value">Sell Value</line>
+<line original="Treasure">Treasure</line>
+<line original="Bait">Bait</line>
+<line original="Requires %s Handling">Requires %s Handling</line>
+<line original="sword">sword</line>
+<line original="bow">bow</line>
+<line original="mace">mace</line>
+<line original="staff">staff</line>
+<line original="throw">throw</line>
+<line original="use">use</line>
+<line original="eat">eat</line>
+<line original="drink">drink</line>
+<line original="equip">equip</line>
+<line original="unequip">unequip</line>
+<line original="drop">drop</line>
+<line original="sell">sell</line>
+<line original="buy">buy</line>
+<line original="Requires %s Handling">Requires %s Handling</line>
+<line original="(Self)">(Self)</line>
+<line original="(Target)">(Target)</line>
+
+<!--Quests-->
+<line original="No Quests">No Quests</line>
+<line original="Abandon">Abandon</line>
+<line original="Giving up already?">Giving up already?</line>
+<line original="Gained %i XP for completing quest '%s'">Gained {0} XP for completing quest '{1}'</line>
+<line original="New quest added to Journal">New quest added to Journal</line>
+<line original="Kill %s">Kill %s</line>
+<line original="QUEST_KILL_DESCRIPTION">Kill {0}. Beware, he may not look it but he's very strong, he was last seen at the {1} position of floor {2}.</line>
+<line original="Search">Search "%s"</line>
+<line original="QUEST_SEARCH_DESCRIPTION">Find a "{0}". Try searching at the {1} position of floor {2}.</line>
+<line original="Quest completed!">Quest completed!</line>
+<line original="North-West">North-West</line>
+<line original="North">North</line>
+<line original="North-East">North-East</line>
+<line original="West">West</line>
+<line original="Center">Center</line>
+<line original="East">East</line>
+<line original="South-West">South-West</line>
+<line original="South">South</line>
+<line original="South-East">South-East</line>
+
+<!--MAIN_MENU-->
+<!--SKILLS-->
+<line original="CHOOSE">CHOOSE</line>
+
+<!--inGame Options-->
+<line original="Show Adventure Log">Show Adventure Log</line>
+<line original="Auto Pick from ground">Auto Pick from ground</line>
+<line original="Mouse Click Attack only">Mouse Click Attack only</line>
+<line original="Show Minimap">Show Minimap</line>
+<line original="Minimap 2x zoom">Minimap 2x zoom</line>
+<line original="Game 2x Zoom">Game 2x Zoom</line>
+<line original="UI 2x Zoom">UI 2x Zoom</line>
+<line original="Stop walk when attacked">Stop walk when attacked</line>
+
+<!--actions-->
+<line original="CLOSE">CLOSE</line>
+<line original="OPEN">OPEN</line>
+<line original="USE">USE</line>
+<line original="SHOP">SHOP</line>
+
+<line original="Skills">Skills</line>
+<line original="Inventory">Inventory</line>
+<line original="Buy">Buy</line>
+<line original="Quests">Quests</line>
+
+<!--inventory-->
+<line original="Level">Level</line>
+<line original="Mana">Mana</line>
+<line original="XP">XP</line>
+<line original="HP">HP</line>
+
+<!--minimap-->
+<line original="Zoom in">Zoom in</line>
+<line original="Zoom out">Zoom out</line>
+<line original="Floor %i">Floor %i</line>
+
+<!--items usage-->
+<!--Should be sentenced as in "Learned Skill [Fire]"-->
+<line original="Learned skill">Learned skill [%s]</line>
+<line original="You have learned this skill before">You have learned this skill before</line>
+<line original="There is nothing on this book you can learn">There is nothing on this book you can learn</line>
+<line original="NOTHING_TO_LEARN">There is nothing new in this book that you haven't learned already, good for you.</line>
+<line original="SKILL_TO_LEARN">In this book you will find the knowledge necessary to learn a new skill called "%s".</line>
+
+
+
+<!--Warning Messages-->
+<line original="NO STATUS EFFECTS ACTIVE">No status effects active</line>
+<line original="It's too far away">It's too far away</line>
+<line original="You have to target an enemy">You have to target an enemy.</line>
+<line original="Not enough Mana!">Not enough Mana!</line>
+<line original="Target an enemy to use">Target an enemy to use</line>
+<line original="Too far to use this Spell">Too far to use this Spell</line>
+<line original="DODGED">DODGED</line>
+<line original="dodged the attack">dodged the attack</line>
+<line original="Blocked">Blocked</line>
+<line original="Critical">Critical</line>
+<line original="did critical damage">%s did critical damage</line>
+<line original="Boss Defeated!">Boss Defeated!</line>
+<line original="Hero ghost Defeated!">Hero ghost Defeated!</line>
+<line original="Gained">Gained %i XP</line>
+<line original="FAILED">FAILED</line>
+<line original="%s failed on %s">%s failed on %s</line>
+<line original="Can't summon here.">Can't summon here.</line>
+<line original="A tamed %s, he will help you with other enemies">A tamed %s, he will help you with other enemies</line>
+<line original="Summon">Summon</line>
+<line original="You can't teleport to this position">You can't teleport to this position</line>
+<line original="Can't set trap here.">Can't set trap here.</line>
+<line original="Trap armed">Trap armed</line>
+<line original="Steal Failed">Steal Failed</line>
+<line original="Stole">Stole %s</line>
+<line original="Destroyed %s">Destroyed %s</line>
+<line original="Knockback">Knockback</line>
+<line original="BOSS ENCOUNTER!">BOSS ENCOUNTER!</line>
+<line original="This skill is still on cooldown!">This skill is still on cooldown!</line>
+<line original="You drank the %s">You drank the %s</line>
+<line original="You ate the %s">You ate the %s</line>
+<line original="You walked the stairs">You walked the stairs</line>
+<line original="Found secret stash">Found secret stash</line>
+<line original="You used the %s">You used the %s</line>
+<line original="You picked up [%s]">You picked up [%s]</line>
+<line original="NO ENEMIES IN SIGHT">NO ENEMIES IN SIGHT</line>
+<line original="No Target Selected">No Target Selected</line>
+<line original="Used">Used %s</line>
+<line original="The door is now unlocked">The door is now unlocked</line>
+<line original="%i XP from unlocking the door">%i XP from unlocking the door</line>
+<line original="Needs">Needs %s</line>
+<line original="Inventory is full!">Inventory is full!</line>
+<line original="Trap triggered!">Trap triggered!</line>
+<!--example : Potion gave 5 to Vitality-->
+<line original="%s gave %i to %s">%s gave %i to %s</line>
+<!--example: Bat took 5 damage from Burning effect, maintain the %s and %i in proper places accordint to localization -->
+<line original="%s took %i damage from %s effect">{0} took {1} damage from {2} effect</line>
+<line original="%s took %i damage from %s">{0} took {1} damage from {2}</line>
+<line original="%s lost %i Mana from %s">{0} lost {1} Mana from {2}</line>
+<line original="disabled">%s disabled</line>
+<line original="Disarmed trap">Disarmed trap</line>
+<line original="EMPTY">EMPTY</line>
+
+<line original="%s lost %i Mana from %s effect">%s lost %i Mana from %s effect</line>
+<line original="Level up!">Level up!</line>
+<line original="You are under the effect [%s] for %i turns">You are under the effect [%s] for %i turns</line>
+<line original="You are under the effect [%s]">You are under the effect [%s]</line>
+<line original="No longer under the effect [%s]">No longer under the effect [%s]</line>
+<line original="Vitality raised to %i">Vitality raised to %i</line>
+<line original="Wisdom raised to %i">Wisdom raised to %i</line>
+<line original="Agility raised to %i">Agility raised to %i</line>
+<line original="Resistance raised to %i">Resistance raised to %i</line>
+<line original="Dexterity raised to %i">Dexterity raised to %i</line>
+<line original="Recovered %i HP">Recovered %i HP</line>
+<line original="Recovered %i MANA">Recovered %i MANA</line>
+<line original="You reached level %i">You reached level %i</line>
+<line original="Horde %i">Horde %i</line>
+
+
+
+<!--Global Stats-->
+
+<line original="Games Started">Games Started</line>
+<line original="Games Lost">Games Lost</line>
+<line original="Finished in Easy">Finished in Easy</line>
+<line original="Finished in Normal">Finished in Normal</line>
+<line original="Finished in Hard">Finished in Hard</line>
+<line original="Won with Warrior">Won with Warrior</line>
+<line original="Won with Assassin">Won with Assassin</line>
+<line original="Won with Wizard">Won with Wizard</line>
+<line original="Won with Shaman">Won with Shaman</line>
+<line original="Lost with Warrior">Lost with Warrior</line>
+<line original="Lost with Assassin">Lost with Assassin</line>
+<line original="Lost with Wizard">Lost with Wizard</line>
+<line original="Lost with Shaman">Lost with Shaman</line>
+<line original="Items sold">Items sold</line>
+<line original="Items purchased">Items purchased</line>
+<line original="Gold collected">Gold collected</line>
+<line original="Monsters Killed">Monsters Killed</line>
+<line original="Food Consumed">Food Consumed</line>
+<line original="Stuff broken">Stuff broken</line>
+<line original="Quests Completed">Quests Completed</line>
+<line original="Steps">Steps</line>
+<line original="Traps Triggered">Traps Triggered</line>
+<line original="Boss Kills">Boss Kills</line>
+<line original="Treasure chests unlocked">Treasure chests unlocked</line>
+<line original="Treasure Chests opened">Treasure Chests opened</line>
+<line original="Unlocked Doors">Unlocked Doors</line>
+<line original="Lost in Easy">Lost in Easy</line>
+<line original="Lost in Normal">Lost in Normal</line>
+<line original="Lost in Hard">Lost in Hard</line>
+<line original="Played Time">Played Time</line>
+<line original="Finished in Hell">Finished in Hell</line>
+<line original="Lost in Hell">Lost in Hell</line>
+<line original="Games in Omphar Mansion">Games in Omphar Mansion</line>
+<line original="Games in Rackan">Games in Rackan</line>
+<line original="Games in Rothar">Games in Rothar</line>
+<line original="Pressed Death Sign">Pressed Death Sign</line>
+<line original="Plays with Warrior">Plays with Warrior</line>
+<line original="Plays with Wizard">Plays with Wizard</line>
+<line original="Plays with Assassin">Plays with Assassin</line>
+<line original="Plays with Shaman">Plays with Shaman</line>
+<line original="Plays with NecroDancer">Plays with Necrodancer</line>
+<line original="Won with NecroDancer">Won with Necrodancer</line>
+<line original="Lost with NecroDancer">Lost with Necrodancer</line>
+<line original="Past Hero Kills">Past Hero Kills</line>
+<line original="Games in Custom Dungeon">Games in Custom Dungeon</line>
+<line original="Games in Arena Mode">Games in Arena Mode</line>
+<line original="Hordes: %i">Hordes: %i</line>
+
+
+<!--Death Stats-->
+<line original="Adventure Points">Adventure Points</line>
+<line original="Time played">Time played</line>
+<line original="Monsters killed">Monsters killed</line>
+<line original="Turns">Turns</line>
+<line original="Walked">Walked</line>
+<line original="Food consumed">Food consumed</line>
+<line original="Gold Collected">Gold Collected</line>
+<line original="Traps triggered">Traps triggered</line>
+<line original="Objects broken">Objects broken</line>
+<line original="Boss Killed">Boss Killed</line>
+<line original="Ghosts Killed">Ghosts Killed</line>
+<line original="Quests completed">Quests completed</line>
+<line original="Screen taps">Screen taps</line>
+<line original="Mouse pressed">Mouse pressed</line>
+
+<!--Achievements-->
+<line original="Beat Game in Easy">Beat Game in Easy</line>
+<line original="Beat Game in Normal">Beat Game in Normal</line>
+<line original="Beat Game in Hard">Beat Game in Hard</line>
+<line original="Beat Game in Hell">Beat Game in Hell</line>
+<line original="Beat Game with Shaman">Beat Game with Shaman</line>
+<line original="Beat Game with Warrior">Beat Game with Warrior</line>
+<line original="Beat Game with Wizard">Beat Game with Wizard</line>
+<line original="Beat Game with Assassin">Beat Game with Assassin</line>
+<line original="Beat Game in 30m">Beat Game in 30m</line>
+<line original="Unlock a door">Unlock a door</line>
+<line original="Unlock Chest">Unlock Chest</line>
+<line original="Buy all stock">Buy all stock</line>
+<line original="Complete a quest">Complete a quest</line>
+<line original="Complete 50 quests">Complete 50 quests</line>
+<line original="Beat a Boss">Beat a Boss</line>
+<line original="Find 50 hidden stash">Find 50 hidden stash</line>
+<line original="Pick 500k Gold">Pick 500k Gold</line>
+<line original="Listen closely">Listen closely</line>
+<line original="Ghost from the Past">Ghost from the Past</line>
+<line original="Beat the Rackan Mansion">Beat the Rackan Mansion</line>
+<line original="Beat the Rothar Mansion">Beat the Rothar Mansion</line>
+<line original="Beat a Custom Game">Beat Custom Game (10 floors/Hard)</line>
+<line original="Beat Game with NecroDancer">Beat Game with NecroDancer</line>
+<line original="Beat the odds">Beat the odds</line>
+<line original="Beat 20 Bosses">Beat 20 Bosses</line>
+<line original="Alternate Reality">Do 1000 points in KC NG N P (L R A)</line>
+
+<!--GamePad Tutorial-->
+<line original="CHOOSE ABILITY">CHOOSE ABILITY</line>
+<line original="SHOW STATUS EFFECTS">SHOW STATUS EFFECTS</line>
+<line original="PREVIOUS ENEMY">PREVIOUS ENEMY</line>
+<line original="NEXT ENEMY">NEXT ENEMY</line>
+<line original="MINIMAP">MINIMAP</line>
+<line original="WEAPON ATTACK">WEAPON ATTACK</line>
+<line original="ABILITY ATTACK">ABILITY ATTACK</line>
+<line original="PICK/USE">PICK/USE</line>
+<line original="INVENTORY">INVENTORY</line>
+<line original="PAUSE MENU">PAUSE MENU</line>
+<line original="MOVEMENT_WEAPON ATTACK">MOVEMENT/&#xA;WEAPON ATTACK</line>
+<line original="MOVE ABILITY TARGET">MOVE ABILITY TARGET AREA</line>
+<line original="HELP MENU">HELP MENU</line>
+<line original="Move Camera Tut">Move Camera:</line>
+
+
+
+<!--ITEMS DB-->
+<line original="Lantern of all Light">Lantern of all Light</line>
+<line original="The Lantern that contains all light in the world!">The Lantern that contains all light in the world!</line>
+<line original="Gold">Gold</line>
+<line original="Precious stone">Precious stone</line>
+<line original="A stone made of a precious material, you can sell it for gold.">A stone made of a precious material, you can sell it for gold.</line>
+<line original="Irregular Gem">Irregular Gem</line>
+<line original="A precious gem with an irregular surface.">A precious gem with an irregular surface.</line>
+<line original="Square Gem">Square Gem</line>
+<line original="A precious gem with a square shape.">A precious gem with a square shape.</line>
+<line original="Pendant">Pendant</line>
+<line original="A pendant with a precious stone.">A pendant with a precious stone.</line>
+<line original="Tome of Skills">Tome of Skills</line>
+
+<line original="Skull of Krull">Skull of Krull</line>
+<line original="Skull of Grunt">Skull of Grunt</line>
+<line original="Golden Skull">Golden Skull</line>
+<line original="Broken Lamp">Broken Lamp</line>
+<line original="Lamp">Lamp</line>
+<line original="Crown of the Antients">Crown of the Antients</line>
+<line original="Crown of Souls">Crown of Souls</line>
+<line original="Cracked Bell">Cracked Bell</line>
+<line original="Heart Pendant">Heart Pendant</line>
+<line original="Iron Pendant">Iron Pendant</line>
+<line original="Magic Pendant">Magic Pendant</line>
+<line original="Life Pendant">Life Pendant</line>
+<line original="Darkness Pendant">Darkness Pendant</line>
+<line original="Skull Pendant">Skull Pendant</line>
+
+<line original="It's a key, it can open some locked doors or chests.">It's a key, it can open some locked doors or chests.</line>
+<line original="This key opens the Master Chest of the dungeon.">This key opens the Master Chest of the dungeon.</line>
+<line original="Light Key">Light Key</line>
+<line original="Rusty Key">Rusty Key</line>
+<line original="Doom Key">Doom Key</line>
+<line original="Gem Key">Gem Key</line>
+<line original="Square Key">Square Key</line>
+<line original="Skull Key">Skull Key</line>
+
+
+
+<!--FOOD-->
+<line original="Half eaten chicken leg">Half eaten chicken leg</line>
+<line original="HALF_EATEN_CHICKEN_DESC">Someone already took a bite of this chicken leg. I guess I can eat the rest...if I'm really desperate.</line>
+<line original="Chicken leg">Chicken leg</line>
+<line original="A tasty chicken leg.">A tasty chicken leg.</line>
+<line original="Fish">Fish</line>
+<line original="The fish is raw so eating it might cause some side-effects.">The fish is raw so eating it might cause some side-effects.</line>
+<line original="Egg">Egg</line>
+<line original="This is one big egg.">This is one big egg.</line>
+<line original="Rotten cheese">Rotten cheese</line>
+<line original="Why are you even carrying this in your pocket?">Why are you even carrying this in your pocket?</line>
+<line original="Cheese">Cheese</line>
+<line original="A nice chunk of cheese, smells nice too.">A nice chunk of cheese, smells nice too.</line>
+<line original="Apple">Apple</line>
+<line original="A red apple, looks tasty.">A red apple, looks tasty.</line>
+
+<!--DRINK-->
+<line original="Beer">Beer</line>
+<line original="A nice cold beer. Better not drink too much.">A nice cold beer. Better not drink too much.</line>
+<line original="Water bottle">Water bottle</line>
+<line original="A bottle with water, generic brand.">A bottle with water, generic brand.</line>
+<line original="Milk">Milk</line>
+<line original="Milk is highly nutritious.">Milk is highly nutritious.</line>
+
+<!--POTIONS-->
+<line original="HP Tube">HP Tube</line>
+<line original="A small tube containing a drink that will recover your health.">A small tube containing a drink that will recover your health.</line>
+<line original="HP Bottle">HP Bottle</line>
+<line original="Drink to regain health.">Drink to regain health.</line>
+<line original="HP Elixir">HP Elixir</line>
+<line original="A highly potent HP potion.">A highly potent HP potion.</line>
+<line original="Mana Tube">Mana Tube</line>
+<line original="A small tube containing a drink that will recover your mana.">A small tube containing a drink that will recover your mana.</line>
+<line original="Mana Bottle">Mana Bottle</line>
+<line original="Drink to regain mana.">Drink to regain mana.</line>
+<line original="Mana Elixir">Mana Elixir</line>
+<line original="A highly potent Mana potion.">A highly potent Mana potion.</line>
+<line original="Magic Tube">Magic Tube</line>
+<line original="This potion will slowly recover your Mana over a certain time.">This potion will slowly recover your Mana over a certain time.</line>
+<line original="Magic Bottle">Magic Bottle</line>
+<line original="This potion will quickly recover your Mana over a certain time.">This potion will quickly recover your Mana over a certain time.</line>
+<line original="Magic Elixir">Magic Elixir</line>
+<line original="This potion will highly restore your Mana over a certain time.">This potion will highly restore your Mana over a certain time.</line>
+<line original="Life Elixir">Life Elixir</line>
+<line original="This potion will grant you extra HP for a certain time.">This potion will grant you extra HP for a certain time.</line>
+<line original="Defense Elixir">Defense Elixir</line>
+<line original="This potion will increase your defense for a while.">This potion will increase your defense for a while.</line>
+
+<!--STATUS_EFFECT-->
+<line original="Unprepared">Unprepared</line>
+<line original="UNPREPARED_DESCRIPTION">You equipped something you don't have the skills to use properly.</line>
+<line original="Bleeding Out">Bleeding Out</line>
+<line original="BLEEDING_OUT_DESCRIPTION">You are losing blood and it's making you feel very tired, your energy is dropping rapidly.</line>
+<line original="Alcohol intoxication">Alcohol intoxication</line>
+<line original="ALCOHOL_INTOXICATION_DESCRIPTION">Also known as drunkenness, it's a physiological state induced by the consumption of alcohol. Common symptoms include slurred speech, euphoria, impaired balance, loss of muscle coordination, and bigger tolerance to pain.</line>
+<line original="Berserk">Berserk</line>
+<line original="BERSERK_DESCRIPTION">You are filled with rage, and this makes you stronger. Attacking recklessly also makes you receive more damage.</line>
+<line original="Combustion">Combustion</line>
+<line original="COMBUSTION_DESCRIPTION">Fire hurts and as long as the flames keep burning you, it will take damage.</line>
+<line original="Scared">Scared</line>
+<line original="SCARED_DESCRIPTION">Terror filled your veins, you are paralyzed with fear.</line>
+<line original="Frozen">Frozen</line>
+<line original="FROZEN_DESCRIPTION">Tiny ice particles lower the body temperature and restrict all movement.</line>
+<line original="Regen">Regen</line>
+<line original="REGEN_DESCRIPTION">Tiny beings called Neriti encircle you and keep converting the energy that surrounds you into HP.</line>
+<line original="Sick">Sick</line>
+<line original="SICK_DESCRIPTION">There is something wrong with your immune system right now. You entire body feels weak.</line>
+<line original="Protection enchantment">Protection enchantment</line>
+<line original="EXTRA_PROTECTION_DESCRIPTION">You are blessed with extra protection.</line>
+<line original="Luck balance">Luck balance</line>
+<line original="LUCK_BALANCE_DESCRIPTION">By manipulating the universe balance you will have extra luck with your findings.</line>
+<line original="Shell">Shell</line>
+<line original="SHELL_DESCRIPTION">Most of the physical damage is reduced.</line>
+<line original="Sleep">Sleep</line>
+<line original="SLEEP_DESCRIPTION">Sleeping, do not disturb.</line>
+<line original="Death">Death</line>
+<line original="DEATH_DESCRIPTION">When the counter hits zero you immediately die.</line>
+<line original="Shield">Shield</line>
+
+<!--SKILLS-->
+<line original="Sword Apprentice">Sword Apprentice</line>
+<line original="Mace Apprentice">Mace Apprentice</line>
+<line original="Warrior Shout">Warrior Shout</line>
+<line original="Defensive Stance">Defensive Stance</line>
+<line original="Deep Cut">Deep Cut</line>
+<line original="Earth Shake">Earth Shake</line>
+<line original="Powerful Hit">Powerful Hit</line>
+<line original="Charge">Charge</line>
+<line original="Rush">Rush</line>
+<line original="Wizard Apprentice">Wizard Apprentice</line>
+<line original="Burn">Burn</line>
+<line original="Ice">Ice</line>
+<line original="Blizzard">Blizzard</line>
+<line original="Heal">Heal</line>
+<line original="Shield">Shield</line>
+<line original="Molecular Teleport">Molecular Teleport</line>
+<line original="Astral Presence">Astral Presence</line>
+<line original="Electric Storm">Electric Storm</line>
+<line original="Regen">Regen</line>
+<line original="Thunder">Thunder</line>
+<line original="Assassin Apprentice">Assassin Apprentice</line>
+<line original="Extra Aim">Extra Aim</line>
+<line original="Pierce Skin">Pierce Skin</line>
+<line original="Rain of Knives">Rain of Knives</line>
+<line original="Explosive Surprise">Explosive Surprise</line>
+<line original="Steal">Steal</line>
+<line original="Good Night">Good Night</line>
+<line original="Feather">Feather</line>
+<line original="Bullseye">Bullseye</line>
+<line original="Trap">Trap</line>
+<line original="Illusions">Illusions</line>
+<line original="Shaman Apprentice">Shaman Apprentice</line>
+<line original="Sickness">Sickness</line>
+<line original="Summon">Summon</line>
+<line original="Drowsiness">Drowsiness</line>
+<line original="Hardened Skin">Hardened Skin</line>
+<line original="Empowerment">Empowerment</line>
+<line original="Meteor">Meteor</line>
+<line original="Wound Patch">Wound Patch</line>
+<line original="Essence Absorber">Essence Absorber</line>
+
+<!--EQUIPMENT-->
+<line original="Wood Sword">Wood Sword</line>
+<line original="Sword">Sword</line>
+<line original="Sword of power">Sword of power</line>
+<line original="Wooden Bow">Wooden Bow</line>
+<line original="Bow">Bow</line>
+<line original="Mace">Mace</line>
+<line original="Wood Staff">Wood Staff</line>
+<line original="Staff">Staff</line>
+<line original="Boots">Boots</line>
+<line original="Armor">Armor</line>
+<line original="Helmet">Helmet</line>
+<line original="Shield">Shield</line>
+<line original="Pants">Pants</line>
+<line original="Ring">Ring</line>
+
+<!--ABILITIES-->
+<!--WARRIOR-->
+<line original="Sword Handling">Sword Handling</line>
+<line original="Mace Handling">Mace Handling</line>
+<line original="BERSERK_DESCRIPTION">Berserk will fill you with rage, making you stronger, but also making you attack more recklessly.</line>
+<line original="WARRIOR_SHOUT_DESCRIPTION">Every great warrior has a war shout. With a well targeted scream enemies can become petrified with fear.</line>
+<line original="DEFENSIVE_STANCE_DESCRIPTION">By assuming a defensive stance most of your damage is reduced.</line>
+<line original="DEEP_CUT_DESCRIPTION">A powerful attack that can pierce the enemy armor, leaving him bleeding.</line>
+<line original="EARTH_SHAKE_DESCRIPTION">A mighty attack on the ground that creates a shock wave.</line>
+<line original="POWERFUL_HIT_DESCRIPTION">With a strong attack you can knock-back your enemies.</line>
+<line original="CHARGE_DESCRIPTION">Like many other great warrior tribes you shout as loud as you can to gather your strength together.</line>
+<line original="Rush Attack">Rush Attack</line>
+<line original="RUSH_ATTACK_DESCRIPTION">Rush flows through your veins as you do a powerful attack, regaining a small amount of energy.</line>
+
+<!--WIZARD-->
+<line original="Staff Handling">Staff Handling</line>
+<line original="Flame">Flame</line>
+<line original="FLAME_DESCRIPTION">Flame allows you to concentrate your energy into a fireball that you can throw at an enemy.</line>
+<line original="BURN_DESCRIPTION">A rain of fire that can cause enemies to catch on fire.</line>
+<line original="ICE_DESCRIPTION">A powerful ice spell that can freeze your enemy.</line>
+<line original="Blizzard">Blizzard</line>
+<line original="BLIZZARD_DESCRIPTION">Cast a series of ice spells on a range, your enemies have a high chance of being frozen.</line>
+<line original="Thunder">Thunder</line>
+<line original="THUNDER_DESCRIPTION">A powerful thunder that can cause some serious damage.</line>
+<line original="Electric Storm">Electric Storm</line>
+<line original="ELECTRIC_STORM_DESCRIPTION">A series of thunders that can reach up to 4 enemies.</line>
+<line original="Heal">Heal</line>
+<line original="HEAL_DESCRIPTION">Heal your injuries.</line>
+<line original="SHIELD_DESCRIPTION">A powerful spell that will give you extra protection.</line>
+<line original="REGEN_DESCRIPTION">Recover HP over time.</line>
+<line original="Teleport">Teleport</line>
+<line original="Teleporter">Teleporter</line>
+<line original="TELEPORT_DESCRIPTION">You can teleport to a new position within your range of sight.</line>
+<line original="ASTRAL_PRESENCE_DESCRIPTION">Regain Mana from the surrounding environment at the cost of some HP.</line>
+
+<!--Assassin-->
+<line original="Archery Handling">Archery Handling</line>
+<line original="EXTRA_AIM_DESCRIPTION">Increase your accuracy.</line>
+<line original="PIERCE_SKIN_DESCRIPTION">A powerful attack that can pierce the enemy armor, leaving him bleeding.</line>
+<line original="RAIN_KNIVES_DESCRIPTION">Use your knives arsenal against the enemies.</line>
+<line original="ILLUSIONS_DESCRIPTION">Elude your enemies sight, making you invisible to their eyes.</line>
+<line original="FEATHER_DESCRIPTION">Increase your chance of dodging attacks.</line>
+<line original="GOOD_NIGHT_DESCRIPTION">Put an enemy to sleep.</line>
+<line original="BULLSEYE_DESCRIPTION">A very powerful attack can take a very high amount of life.</line>
+<line original="STEAL_DESCRIPTION">With a quick and agile movement you can try to steal items from enemies.</line>
+<line original="EXPLOSIVE_SURPRISE_DESCRIPTION">Throw a couple of bombs to your enemies, they won't see them coming.</line>
+<line original="TRAP_DESCRIPTION">Build a trap. Just pay attention so you won't fall into your own traps.</line>
+
+<!--SHAMAN-->
+<line original="Terror">Terror</line>
+<line original="TERROR_DESCRIPTION">Induce terror to your enemies, paralysing them with fear.</line>
+<line original="Sickness">Sickness</line>
+<line original="SICKNESS_DESCRIPTION">Cast illness to enemies.</line>
+<line original="DROWSINESS_DESCRIPTION">Make your enemies sleepy.</line>
+<line original="Patch Wounds">Patch Wounds</line>
+<line original="PATCH_WOUNDS_DESCRIPTION">Patch your wounds quickly and you are able to regain some health.</line>
+<line original="Meteor">Meteor</line>
+<line original="METEOR_DESCRIPTION">Combine the elements with magic and you are able to attack with a small meteor.</line>
+<line original="HARDENED_SKIN_DESCRIPTION">Hardening your skin makes you more resistant to damage.</line>
+<line original="EMPOWERMENT_DESCRIPTION">You feel invigorated and with more strength.</line>
+<line original="SUMMON_DESCRIPTION">Summon a minion to help you on your battles.</line>
+<line original="ESSENCE_ABSORBER_DESCRIPTION">You are able to steal some of the target's life and essence to yourself.</line>
+
+<!-- DANCER -->
+<line original="Bomb">Bomb</line>
+<line original="Spikes from Hell">Spikes from Hell</line>
+<line original="Fireball">Fireball</line>
+<line original="Freeze">Freeze</line>
+<line original="Light Foot">Light Foot</line>
+<line original="Enchanted Knife">Enchanted Knife</line>
+<line original="BOMB_DESCRIPTION">Booby trap the floor and watch your enemies go puff.</line>
+<line original="SPIKES_HELL_DESCRIPTION">From the depths of hell these spikes will surely take quite a hit on anything that comes in it's way</line>
+<line original="FIREBALL_DESCRIPTION">Use this fireball to warm up your enemies.</line>
+<line original="FREEZE_DESCRIPTION">Use this iceball to chill your enemies.</line>
+<line original="LIGHT_FOOT_DESCRIPTION">Speed up your pace and increase you chance of dodging enemies attacks, while increasing your own chance of doing critical damage.</line>
+<line original="ENCHANTED_KNIFE_DESCRIPTION">This enchanted Knife has a chance of leaving your enemies sick, use them wisely.</line>
+
+<!--Enemies -->
+<line original="Life Suck">Life Suck</line>
+<line original="Negate">Negate</line>
+<line original="Darkness">Darkness</line>
+
+</lines>

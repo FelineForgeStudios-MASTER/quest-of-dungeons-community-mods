@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<dialogs>
+
+<sentence id="HERO_BORED">Hello??</sentence>
+<sentence id="HERO_BORED">So... I'm waiting here!</sentence>
+<sentence id="HERO_BORED">Are you there?</sentence>
+<sentence id="HERO_BORED">I'm all alone...</sentence>
+<sentence id="HERO_BORED">This place is creepy</sentence>
+<sentence id="HERO_BORED">Don't leave me here alone</sentence>
+<sentence id="HERO_BORED">na na na na na MAN bat...</sentence>
+<sentence id="HERO_BORED">Let's go!</sentence>
+<sentence id="HERO_BORED">Are we doing this or what?</sentence>
+<sentence id="HERO_BORED">I'm bored</sentence>
+<sentence id="HERO_BORED">Why did I enter alone?</sentence>
+<sentence id="HERO_BORED">This game was coded in C++</sentence>
+<sentence id="HERO_BORED">This game has 78k lines of code</sentence>
+<sentence id="HERO_BORED">It's cold in here</sentence>
+<sentence id="HERO_BORED">Please hurry</sentence>
+<sentence id="HERO_BORED" exception="ps4;vita">Should have brought my DS</sentence>
+<sentence id="HERO_BORED">Are you still there?</sentence>
+<sentence id="HERO_BORED">I'm hungry</sentence>
+<sentence id="HERO_BORED">What's yellow and goes like "waka waka waka"?</sentence>
+<sentence id="HERO_BORED">Don't just stand there</sentence>
+<sentence id="HERO_BORED">I'm going to have nightmares</sentence>
+<sentence id="HERO_BORED">Want to borrow my "Dungeons for Dummies"?</sentence>
+<sentence id="HERO_BORED">*Whistling*</sentence>
+<sentence id="HERO_BORED">Can we go now?</sentence>
+<sentence id="HERO_BORED">There's so much dust here</sentence>
+
+<!-- ENEMY -->
+<sentence id="ENEMY_TALK">I'm gonna get you</sentence>
+<sentence id="ENEMY_TALK">You shall not pass</sentence>
+<sentence id="ENEMY_TALK">Come here</sentence>
+<sentence id="ENEMY_TALK">I have a present for you</sentence>
+<sentence id="ENEMY_TALK">Are you crying yet?</sentence>
+<sentence id="ENEMY_TALK">Knock knock</sentence>
+<sentence id="ENEMY_TALK">Yuck, you are so ugly</sentence>
+<sentence id="ENEMY_TALK">You better start running</sentence>
+<sentence id="ENEMY_TALK">Llie naa moro</sentence>
+<sentence id="ENEMY_TALK">Manke cael Amin istim sina?</sentence>
+<sentence id="ENEMY_TALK">You should have stayed home</sentence>
+<sentence id="ENEMY_TALK">I am your father...joking</sentence>
+<sentence id="ENEMY_TALK">The dungeon has you</sentence>
+<sentence id="ENEMY_TALK">You should have taken the blue pill</sentence>
+<sentence id="ENEMY_TALK">Stop running</sentence>
+<sentence id="ENEMY_TALK">Muahahaha</sentence>
+<sentence id="ENEMY_TALK">Give me your gold and run</sentence>
+<sentence id="ENEMY_TALK">I was cursed, I used to be a rabbit</sentence>
+<sentence id="ENEMY_TALK">Don't run</sentence>
+<sentence id="ENEMY_TALK">You killed my friends</sentence>
+<sentence id="ENEMY_TALK">You better run human</sentence>
+<sentence id="ENEMY_TALK">Your adventure ends now</sentence>
+<sentence id="ENEMY_TALK">Is that all you got?</sentence>
+<sentence id="ENEMY_TALK">Don't waste my time</sentence>
+<sentence id="ENEMY_TALK">Quick, look behind you</sentence>
+<sentence id="ENEMY_TALK">I've seen better looking rocks</sentence>
+<sentence id="ENEMY_TALK">The princess is in another dungeon</sentence>
+<sentence id="ENEMY_TALK">You are about to die like the Blue Wizard</sentence>
+<sentence id="ENEMY_TALK">The cake is a lie</sentence>
+<sentence id="ENEMY_TALK">Finish him!!</sentence>
+<sentence id="ENEMY_TALK">Welcome to your doom</sentence>
+<sentence id="ENEMY_TALK">404 Not Found</sentence>
+<sentence id="ENEMY_TALK">Wakka wakka wakka</sentence>
+<sentence id="ENEMY_TALK">Don't hurt me</sentence>
+<sentence id="ENEMY_TALK">Your end is near</sentence>
+<sentence id="ENEMY_TALK">Argh he's too strong</sentence>
+<sentence id="ENEMY_TALK">Attack me, if you dare</sentence>
+<sentence id="ENEMY_TALK">Give me your money</sentence>
+<sentence id="ENEMY_TALK">Run you fool</sentence>
+<sentence id="ENEMY_TALK">You are not getting out alive</sentence>
+<sentence id="ENEMY_TALK">I am death</sentence>
+<sentence id="ENEMY_TALK">tra la la</sentence>
+<sentence id="ENEMY_TALK">You stink</sentence>
+<sentence id="ENEMY_TALK">You need to go deeper</sentence>
+<sentence id="ENEMY_TALK">This ends now</sentence>
+<sentence id="ENEMY_TALK">There he is</sentence>
+
+
+<sentence id="HERO_GHOST_TALK">I've seen things</sentence>
+<sentence id="HERO_GHOST_TALK">Soon you will be dead too</sentence>
+<sentence id="HERO_GHOST_TALK">.....</sentence>
+<sentence id="HERO_GHOST_TALK">Who you gonna call?</sentence>
+<sentence id="HERO_GHOST_TALK">I can't remember what killed me</sentence>
+<sentence id="HERO_GHOST_TALK">I was once like you</sentence>
+<sentence id="HERO_GHOST_TALK">*ghostly sounds*</sentence>
+
+<sentence id="BOSS_TALK">There he is</sentence>
+<sentence id="BOSS_TALK">End of the line</sentence>
+<sentence id="BOSS_TALK">This will not end good for you</sentence>
+<sentence id="BOSS_TALK">I am strong, you are weak</sentence>
+<sentence id="BOSS_TALK">Start praying</sentence>
+<sentence id="BOSS_TALK">Pray for a blue screen</sentence>
+<sentence id="BOSS_TALK">You are my adversary? Pathetic</sentence>
+<sentence id="BOSS_TALK">Come on, attack me</sentence>
+<sentence id="BOSS_TALK">YOLO!</sentence>
+<sentence id="BOSS_TALK">SONIC BOOOM!</sentence>
+<sentence id="BOSS_TALK">*Humming Guile Theme*</sentence>
+<sentence id="BOSS_TALK">Come here</sentence>
+<sentence id="BOSS_TALK">Prepare to die</sentence>
+<sentence id="BOSS_TALK">So you are the great champion they sent</sentence>
+
+
+<sentence id="FINAL_BOSS_TALK">You're still alive?</sentence>
+<sentence id="FINAL_BOSS_TALK">Any last wishes? </sentence>
+<sentence id="FINAL_BOSS_TALK">You'll never get the lantern back</sentence>
+<sentence id="FINAL_BOSS_TALK">I'm impressed you made it this far</sentence>
+<sentence id="FINAL_BOSS_TALK">Prepare to die you little cockroach</sentence>
+<sentence id="FINAL_BOSS_TALK">You will never leave this place alive</sentence>
+<sentence id="FINAL_BOSS_TALK">You think you can beat me?</sentence>
+<sentence id="FINAL_BOSS_TALK">Prepare to die</sentence>
+<sentence id="FINAL_BOSS_TALK">MUHAHAHAHAH!</sentence>
+<sentence id="FINAL_BOSS_TALK">You weak pathetic fool</sentence>
+<sentence id="FINAL_BOSS_TALK">Where are your friends now?</sentence>
+<sentence id="FINAL_BOSS_TALK">Run you fool</sentence>
+<sentence id="FINAL_BOSS_TALK">The lantern is in that chest but I have the key</sentence>
+<sentence id="FINAL_BOSS_TALK">Evil will win</sentence>
+<sentence id="FINAL_BOSS_TALK">I am death!</sentence>
+<sentence id="FINAL_BOSS_TALK">It's amazing you got this far</sentence>
+<sentence id="FINAL_BOSS_TALK">Now is that part where you scream and run</sentence>
+<sentence id="FINAL_BOSS_TALK">You are no match to me</sentence>
+<sentence id="FINAL_BOSS_TALK">Pray for a blue screen</sentence>
+
+
+<!-- COMBAT TEXT -->
+<sentence id="HERO_ATTACKS">You did %damage% damage to %attacked%</sentence>
+<sentence id="HERO_ATTACKS">You hit %attacked% making him lose %damage% of health</sentence>
+<sentence id="HERO_ATTACKED">You took %damage% damage from %attacker%</sentence>
+<sentence id="HERO_ATTACKED">%attacker% hit you. You lost %damage% of health</sentence>
+<sentence id="HERO_ATTACKED">You lost %damage% health from %attacker% attack</sentence>
+<sentence id="ENEMY_PERISHED">%attacked% perished</sentence>
+<sentence id="ENEMY_PERISHED">%attacked% died after extensive injuries</sentence>
+
+<!-- END COMBAT TEXT -->
+
+<sentence id="LOG_DOOR_BLOCKED">Something is blocking the door!</sentence>
+<sentence id="HERO_DOOR_BLOCKED">Something is blocking the door!</sentence>
+<sentence id="HERO_DOOR_BLOCKED">I can't close that!</sentence>
+<sentence id="HERO_DOOR_BLOCKED">There's something in the way!</sentence>
+<sentence id="COLLECT_MONEY">This should help me buy that new video game I've been wanting.</sentence>
+<sentence id="COLLECT_MONEY">Nice.</sentence>
+<sentence id="INVENTORY_FULL">Inventory is full</sentence>
+<sentence id="INVENTORY_FULL">My inventory is full</sentence>
+<sentence id="INVENTORY_FULL">I don't think I have room to carry that!</sentence>
+<sentence id="INVENTORY_FULL">I can't carry any more items</sentence>
+<sentence id="INVENTORY_FULL">Sorry, can't carry any more</sentence>
+
+<sentence id="SHOPKEEPER_INVENTORY_FULL">You can't carry any more items</sentence>
+<sentence id="SHOPKEEPER_STORE_CLOSING">Nice doing business with you</sentence>
+<sentence id="SHOPKEEPER_STORE_CLOSING">Feel free to drop by</sentence>
+<sentence id="SHOPKEEPER_STORE_CLOSING">Hope to see you again soon</sentence>
+<sentence id="SHOPKEEPER_STORE_CLOSING">Come back later for more supplies</sentence>
+<sentence id="SHOPKEEPER_STORE_CLOSING">Visit me once in a while, I might have something new.</sentence>
+<sentence id="SHOPKEEPER_STORE_CLOSING">Is that all, stranger?</sentence>
+<sentence id="SHOPKEEPER_STORE_CLOSING">Heh heh heh... Thank you!</sentence>
+<sentence id="SHOPKEEPER_STORE_EMPTY">Dude. How the butt did you buy out my stock? I mean thank you but like??</sentence>
+<sentence id="SHOPKEEPER_STORE_EMPTY">Dude. How the butt did you buy out my stock? I mean thank you but like??</sentence>
+<sentence id="SHOPKEEPER_STORE_EMPTY">Dude. How the butt did you buy out my stock? I mean thank you but like??</sentence>
+<sentence id="SHOPKEEPER_SELLING">Oh my gawd tysm bestie!!!</sentence>
+<sentence id="SHOPKEEPER_SELLING">A bit, unusal, but you do you boo.</sentence>
+<sentence id="SHOPKEEPER_SELLING">Get scammed ayyyyy...</sentence>
+<sentence id="SHOPKEEPER_SELLING">How are you so rich??? My stuff is like, wayyy overpriced.</sentence>
+<sentence id="SHOPKEEPER_SELLING">Thank you, next!</sentence>
+<sentence id="SHOPKEEPER_SELLING">Thank you bestieeee</sentence>
+<sentence id="SHOPKEEPER_SELLING">"OH MY GOD SERENAAAA!!"</sentence>
+<sentence id="SHOPKEEPER_SELLING">...</sentence>
+<sentence id="SHOPKEEPER_SELLING">Yes, make me richer than your mother...</sentence>
+<sentence id="SHOPKEEPER_SELLING">...</sentence>
+<sentence id="SHOPKEEPER_SELLING">YOU'RE TAKING TOO LONG!!</sentence>
+<sentence id="SHOPKEEPER_SELLING">I can buy your old stuff for like, 2... dollars.</sentence>
+
+<sentence id="TELEPORT_NOT_WORKING">Weird, it's not working...</sentence>
+<sentence id="TELEPORT_NOT_WORKING">I think it's broken...</sentence>
+<sentence id="USING_WRONG_TARGET">I can't use it on that</sentence>
+<sentence id="USING_WRONG_TARGET">I shouldn't use this on that target</sentence>
+<sentence id="USING_WRONG_TARGET">I can't do that</sentence>
+<sentence id="USING_WRONG_TARGET">I should use this on someplace else.</sentence>
+<sentence id="OUT_OF_MANA">My rizz power is weakening...</sentence>
+<sentence id="OUT_OF_MANA">I need more, "mana" to run...</sentence>
+<sentence id="OUT_OF_MANA">Fill me up... EWW NOT LIKE THAT!!</sentence>
+<sentence id="OUT_OF_MANA">ALAN, we are soooo screwed.</sentence>
+
+<sentence id="ALERTED_TO_ENEMY_POSITION">I see you</sentence>
+<sentence id="ALERTED_TO_ENEMY_POSITION">Get over here</sentence>
+<sentence id="ALERTED_TO_ENEMY_POSITION">I'm going to get you</sentence>
+<sentence id="ALERTED_TO_ENEMY_POSITION">Over there</sentence>
+<sentence id="ALERTED_TO_ENEMY_POSITION">I see you now</sentence>
+<sentence id="ALERTED_TO_ENEMY_POSITION">You can't hide from me</sentence>
+<sentence id="ALERTED_TO_ENEMY_POSITION">What have I done to you?</sentence>
+<sentence id="ALERTED_TO_ENEMY_POSITION">Who disturbs my slumber???</sentence>
+
+<sentence id="DEATH_SCREEN_MESSAGE">Hero? Hero? Noooooo!!</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">You are dead!</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">You died!</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Again? Yes, dead.</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Better luck next time.</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Bad luck, you died.</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">R.I.P.</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Such a shame.</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Nice effort. But you died.</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Cats have nine lives but you only got one.</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Mind if I keep your gold? You don't need it anymore.</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Let's just pretend this never happened shall we?</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Did you die on purpose?</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Worst episode ever!</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Next on Quest...oh wait, you died!</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Seriously?</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Let's just keep this between us ok?</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Ah not again!</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Let's try this again.</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Good run. Better luck next time.</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">DEAD!</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Ouch! Let's try this again.</sentence>
+<sentence id="DEATH_SCREEN_MESSAGE">Not again</sentence>
+
+
+<sentence id="NEW_FLOOR_DISCOVERED">You discovered a new floor.</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">You reached floor %floor%.</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">You feel tired, but step by step you have reached a new floor.</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">Our brave Hero reaches floor %floor%.</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">The End....Just kidding, there's still more. Welcome to floor %floor%.</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">Are you still alive? Get ready for more challenges.</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">Loud and diabolic growlings can be heard from far away, but you keep going forward.</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">This floor is flooded with water and you don't have any equipment, so we are sending you to somewhere else.</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">You feel tired, how much more can there be? You need to keep pushing forward.</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">You found a dead corpse in the stairs, some guy in a green tunic. Is this your destiny?</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">Welcome to floor %floor%!</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">After some hard battles you finally reach floor %floor%.</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">Darkness is spreading quickly, you must hurry.</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">Our hero keeps getting stronger. But will he make it?</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">Are you ready for some more? Let's do this!</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">Save as much potions and food as you can. You'll need them.</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">Loading...</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">New challenges, let's do this!</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">It's too dangerous to go alone, but you did that anyway!</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">Just give up, no one will know.</sentence>
+<sentence id="NEW_FLOOR_DISCOVERED">Aren't you tired? You must be by now.</sentence>
+
+
+<sentence id="TRIVIA_LINE">This trivia is different each time.</sentence>
+<sentence id="TRIVIA_LINE">The game, including engine has aproximately 100k lines of code</sentence>
+<sentence id="TRIVIA_LINE">Developed in approximately 10 months (v1.0)</sentence>
+<sentence id="TRIVIA_LINE">Game was made in C++</sentence>
+<sentence id="TRIVIA_LINE">Was almost called Tower of Quests</sentence>
+<sentence id="TRIVIA_LINE">Was almost called Flappy Dungeons. #lies</sentence>
+<sentence id="TRIVIA_LINE">The intro in the first teaser was not in the game when I made it</sentence>
+<sentence id="TRIVIA_LINE">At a certain point I considered switching to a different project</sentence>
+<sentence id="TRIVIA_LINE">Like many mobile games it has birds in it</sentence>
+<sentence id="TRIVIA_LINE">Most assets are 16x16 and scaled 3x in game using a neirest neighbour filter</sentence>
+<sentence id="TRIVIA_LINE">No shaders were used in the making of this game</sentence>
+<sentence id="TRIVIA_LINE">Some pixels were harmed in the making of this game</sentence>
+<sentence id="TRIVIA_LINE">Nearly 2000 commits in the git repository</sentence>
+<sentence id="TRIVIA_LINE">The idea for the going alone to the dungeons was inspired by the horror movies cliche</sentence>
+<sentence id="TRIVIA_LINE">The initial sign killing you was a bug early on, I decided to keep it as a joke</sentence>
+<sentence id="TRIVIA_LINE">The shopkeeper was inspired by Resident Evil 4</sentence>
+<sentence id="TRIVIA_LINE">This trivia section was something I made 1 week before launch</sentence>
+<sentence id="TRIVIA_LINE" only="ps4;vita">The games I played while making this were The Last of Us and Axiom Verge</sentence>
+<sentence id="TRIVIA_LINE" exception="ps4;vita">The game I played while making this was The Legend of Zelda: A Link Between Worlds</sentence>
+<sentence id="TRIVIA_LINE">Got the urge to release a roguelike after the 7DRL competition</sentence>
+<sentence id="TRIVIA_LINE">The lack of in-game explanations was on purpose, I hate hand-holding on games</sentence>
+<sentence id="TRIVIA_LINE">Dungeons are generated randomly within a screen size of 5700x5700 pixels</sentence>
+
+
+</dialogs>
